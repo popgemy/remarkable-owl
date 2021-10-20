@@ -13,7 +13,7 @@ sections:
       be your partner if your project and idea great,If you have a good idea
       feel free to contact us&#xA;&#xA;
     actions:
-      - label: Free Trial
+      - label: twitter
         url: /signup
         style: primary
       - label: View Demo
