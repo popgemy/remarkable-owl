@@ -74,7 +74,7 @@ sections:
     title: 'Contribute with us and add your passion :)'
     subtitle: 'Coda for all and evryone  can work with us :)'
     actions:
-      - label: Get Started
+      - label: GitHub
         url: /signup
         style: primary
 seo:
