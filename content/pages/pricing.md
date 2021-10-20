@@ -60,7 +60,7 @@ sections:
             url: /signup
             style: primary
       - title: Photographers
-        subtitle: For very large businesses
+        subtitle: ForPhotographer
         price: $10/m
         details: |
           #### Features:
