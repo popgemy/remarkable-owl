@@ -10,11 +10,12 @@ sections:
       - title: Blogs /smal sites/personal
         subtitle: For small businesses
         price: From $4/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: >
+          *   *   Take Backups anytime for free*   memory from 1 gb ram up to
+          64*   scale up on demand*   Control Panel*   Cloud hosting*   SSL
+          certificate
+
+              Get 40% discount when you pay with Coda
         actions:
           - label: Order Now
             url: /signup
