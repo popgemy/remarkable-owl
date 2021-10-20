@@ -27,10 +27,12 @@ sections:
       - title: "Unlimited\_ services for\_Developers and users."
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          Coda offers many services to developers and users , if you user you
+          can enjoy our ready-made services for you, But if you are a developer
+          you can easily use our UNDERZ  js freamwork  To start building your
+          own projects.
+
         actions:
           - label: Learn More
             url: /features
