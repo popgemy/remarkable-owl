@@ -10,25 +10,20 @@ sections:
       - title: Blogs /smal sites/personal
         subtitle: For small businesses
         price: From $4/m
-        details: >+
-          *   unlimted bandwith
+        details: |+
+          *   Unlimited bandwidth..
 
-          *   Take Backups anytime for free
+          *   Take Backups anytime for free.
 
-          *   memory from 1 gb ram up to 64*   scale up on demand*   Control
-          Panel*   Cloud hosting*   SSL certificate*   Get 40% discount when you
-          pay with Coda
+          *   1 Gb ram memory can up to 64.
 
+          *   scale up on demand.
 
-          *
+          *   Cloud hosting
 
+          *   SSL certificate
 
-
-
-
-
-
-
+          *   Get 40% discount when you pay with Coda
 
 
 
