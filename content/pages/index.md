@@ -57,10 +57,11 @@ sections:
       - title: Suitable For All.
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >+
+          Coda welcomes everyone, whether you are a programmer, developer,
+          blogger or even a photographer,Coda helps you reach your goals and
+          grow your business easily without thinking about the cost.
+
         actions:
           - label: Learn More
             url: /features
