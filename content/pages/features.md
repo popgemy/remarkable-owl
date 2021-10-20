@@ -17,7 +17,7 @@ sections:
         url: 'https://twitter.com/CodaMiix'
         style: primary
       - label: Facebook
-        url: '#'
+        url: 'https://www.facebook.com/codess1'
         style: secondary
   - section_id: call-to-action
     type: section_cta
