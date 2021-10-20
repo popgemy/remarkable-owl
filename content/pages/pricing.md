@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional
-        subtitle: Stores an
+        subtitle: "Stores Sites and\_All business activities"
         price: $9/m
         details: |+
           *   Unlimited Bandwith.
