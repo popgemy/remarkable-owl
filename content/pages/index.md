@@ -24,7 +24,7 @@ sections:
     title: Fast
     subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 second."
     features:
-      - title: The Best Feature of Your Services
+      - title: "Unlimited\_ services for\_Developers and users."
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
