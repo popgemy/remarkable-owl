@@ -60,7 +60,7 @@ sections:
             url: /signup
             style: primary
       - title: Photographers
-        subtitle: For Photographer si
+        subtitle: For Photographer sites.
         price: $10/m
         details: |
           #### Features:
