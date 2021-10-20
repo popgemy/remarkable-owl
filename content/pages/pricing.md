@@ -62,11 +62,26 @@ sections:
       - title: Enterprise
         subtitle: For very large businesses
         price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          #### Features:
+
+          *   Unlimited Bandwidth.
+
+          *   Awsome Galery.
+
+          *   Drag and drop anywhere you want.
+
+          *   20 Gb for start plan.
+
+          *   Control Panel.
+
+          *   Cloud Hosting.
+
+          *   SSL certificate.
+
+          Get 40% discount when you pay with Coda
+
+          #### &#xA;&#xA;
         actions:
           - label: Order Now
             url: /signup
