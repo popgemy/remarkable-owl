@@ -22,9 +22,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 second."
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
