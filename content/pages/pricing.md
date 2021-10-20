@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional
-        subtitle: For medium-sized businesses
+        subtitle: Stores an
         price: $9/m
         details: |+
           *   Unlimited Bandwith.
