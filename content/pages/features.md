@@ -16,7 +16,7 @@ sections:
       - label: Twitter
         url: /signup
         style: primary
-      - label: View Demo
+      - label: Faceb
         url: '#'
         style: secondary
   - section_id: call-to-action
