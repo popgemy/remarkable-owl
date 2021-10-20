@@ -21,7 +21,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Fast
     subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 second."
     features:
       - title: The Best Feature of Your Services
