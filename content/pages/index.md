@@ -72,7 +72,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: 'Contribute with us and add your passion :)'
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Coda for all and evryone  can work with us :)'
     actions:
       - label: Get Started
         url: /signup
