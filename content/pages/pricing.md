@@ -59,7 +59,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Photographer
         subtitle: For very large businesses
         price: $10/m
         details: |
