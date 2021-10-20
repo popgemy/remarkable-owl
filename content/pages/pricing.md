@@ -113,7 +113,7 @@ sections:
           Here we accept only trx and bnb and coda, when u have pay by bnb you
           get 20% discount and by coda you get 40% discount.
 
-      - question: Aliquam eget purus ante?
+      - question: Are all these services included in the discount?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
