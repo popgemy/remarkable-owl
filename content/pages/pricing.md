@@ -35,7 +35,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $9/m
         details: |+
           *   Unlimited Bandwith.
           *   Up to 10000 products.
