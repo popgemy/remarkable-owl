@@ -7,21 +7,11 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Have idea ? so you are welcome let us know .
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+    content: >
+      #### Coda target to create huge Community around world , And  welcome
+      welcome  anyone with good  ideas to join our big community,We can support
+      you and be your partner if your project and idea great,If you have a good
+      idea feel free to contact us&#xA;&#xA;
     actions:
       - label: Free Trial
         url: /signup
