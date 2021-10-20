@@ -41,12 +41,12 @@ sections:
       - title: Professional
         subtitle: For medium-sized businesses
         price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Unlimited Bandwith.
+          *   Up to 10000 products.
+          *   advanced control panel.
+          *   Fusce tempus mi vitae luctus
+          *   Nullam sollicitudin ante
         highlight: true
         actions:
           - label: Order Now
