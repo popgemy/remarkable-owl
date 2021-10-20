@@ -75,7 +75,7 @@ sections:
     subtitle: 'Coda for all and evryone  can work with us :)'
     actions:
       - label: GitHub
-        url: /signup
+        url: 'https://github.com/mPhpMaster/UnderZ'
         style: primary
 seo:
   title: Stackbit Azimuth Theme
