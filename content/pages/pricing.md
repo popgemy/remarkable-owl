@@ -118,7 +118,7 @@ sections:
           Services included in the discount are blogs-Commerce
           Sites-photographers sites-Digtal Markting.
 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
+      - question: How i can buy coda ?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
           dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
