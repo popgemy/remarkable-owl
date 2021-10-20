@@ -61,7 +61,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: For very large businesses
-        price: $149/m
+        price: $10/m
         details: |
           #### Features:
 
