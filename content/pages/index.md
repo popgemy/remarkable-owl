@@ -6,9 +6,14 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Coda is here for evryone.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >+
+      Coda is big community make evryone Create, build and scale DeFi projects,
+      tools,websites and communities based in security and safe.
+
+      make your crypto live.
+
+      Make your work easy.
+
     actions:
       - label: Learn More
         url: /features
