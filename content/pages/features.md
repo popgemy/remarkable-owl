@@ -24,7 +24,7 @@ sections:
     title: "Start developing and improving your projects with UnderZ\_ :)"
     subtitle: "Under Z is one of our projects , Its Java script library can make you\_improve and upgrade your projects,\_Don't forget to follow the instructions."
     actions:
-      - label: Get Started
+      - label: U
         url: '#'
         style: secondary
 seo:
