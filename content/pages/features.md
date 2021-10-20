@@ -8,10 +8,10 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Have idea ? so you are welcome let us know .
     content: >
-      #### Coda target to create huge Community around world , And  welcome
-      welcome  anyone with good  ideas to join our big community,We can support
-      you and be your partner if your project and idea great,If you have a good
-      idea feel free to contact us&#xA;&#xA;
+      #### Coda target to create huge Community around world , And  welcome  
+      anyone with good  ideas to join our big community,We can support you and
+      be your partner if your project and idea great,If you have a good idea
+      feel free to contact us&#xA;&#xA;
     actions:
       - label: Free Trial
         url: /signup
