@@ -14,7 +14,7 @@ sections:
       feel free to contact us&#xA;&#xA;
     actions:
       - label: Twitter
-        url: /signup
+        url: 'https://twitter.com/CodaMiix'
         style: primary
       - label: Facebook
         url: '#'
