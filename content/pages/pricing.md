@@ -10,8 +10,12 @@ sections:
       - title: Blogs /smal sites/personal
         subtitle: For small businesses
         price: From $4/m
-        details: |+
+        details: |
+          #### Features:
+
           *   Unlimited bandwidth..
+
+          <!---->
 
           *   Take Backups anytime for free.
 
@@ -24,11 +28,6 @@ sections:
           *   SSL certificate
 
           *   Get 40% discount when you pay with Coda
-
-
-
-
-
         actions:
           - label: Order Now
             url: /contact
