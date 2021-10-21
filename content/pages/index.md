@@ -15,7 +15,7 @@ sections:
       Make your work easy.
 
     actions:
-      - label: Contact with developers
+      - label: Meet
         url: /features
         style: primary
   - section_id: features
