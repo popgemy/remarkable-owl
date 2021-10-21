@@ -4,7 +4,7 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/stbl.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
