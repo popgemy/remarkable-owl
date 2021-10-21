@@ -87,7 +87,7 @@ sections:
             url: /signup
             style: secondary
       - title: Smart Contracts
-        subtitle: lorem-ipsum
+        subtitle: for smart contract
         price: lorem-ipsum
         details: |
           Features:
