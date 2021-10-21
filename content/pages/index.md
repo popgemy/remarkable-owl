@@ -55,7 +55,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Suitable For All.
-        image: images/feature3.png
+        image: >-
+          /images/359-3594201_social-media-advertising-services-transparent-social-media-engagement.png
         image_alt: App user profile preview
         content: >+
           Coda welcomes everyone, whether you are a programmer, developer,
