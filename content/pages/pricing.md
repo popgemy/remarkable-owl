@@ -89,17 +89,21 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
+        details: |
+          Features:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   deploy your new smart contract.
 
+          *   verify your smart contract on Blockchain network.
 
-          - Lorem ipsum
+          *   add your token to the market.
 
-          - dolor sit amet
+          *   have any limits you want for market cap.
+
+          *   website for your smart contract and your project.
+
+          Get a 40% discount when you pay with Coda.
         highlight: false
         actions: []
   - section_id: faq
