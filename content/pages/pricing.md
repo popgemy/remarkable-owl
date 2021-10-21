@@ -42,11 +42,11 @@ sections:
           *   Up to 10000 products.
           *   advanced control panel.
           *   1 gb ram memory can up to 64.
-          *   incloud payments methods.
-          *   20 gb disk speace.
+          *   include payments methods.
+          *   20 GB disk space.
           *   Cloud hosting.
           *   SSL certificate.
-          *   Get 40% discount when you pay with Coda
+          *   Get a 40% discount when you pay with Coda
         highlight: true
         actions:
           - label: Order Now
