@@ -83,7 +83,7 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "lorem-ipsum",
+                        "label": "fa",
                         "url": "lorem-ipsum",
                         "style": "link",
                         "has_icon": false,
