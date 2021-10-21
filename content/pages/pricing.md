@@ -61,7 +61,7 @@ sections:
             style: primary
       - title: Digtal Markting
         subtitle: for digtal markting services
-        price: lorem-ipsum
+        price: Contact us
         details: >
           Features:
 
