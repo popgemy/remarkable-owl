@@ -1,7 +1,7 @@
 ---
 title: Pricing
 sections:
-  - section_id: services
+  - section_id: pricing
     type: section_pricing
     background: gray
     title: Pricing Plans
