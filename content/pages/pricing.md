@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Blogs /smal sites/personal
         subtitle: For small businesses
-        price: From $4/m
+        price: From $3/m
         details: |
           #### Features:
 
