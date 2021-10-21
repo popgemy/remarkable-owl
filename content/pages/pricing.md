@@ -31,7 +31,7 @@ sections:
 
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
             style: secondary
       - title: Professional
         subtitle: "Stores Sites and\_All business activities"
