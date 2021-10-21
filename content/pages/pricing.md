@@ -62,26 +62,18 @@ sections:
       - title: Digtal Markting
         subtitle: for digtal markting services
         price: Contact us
-        details: >
-          Features:
+        details: |
+          #### Features:
 
-
-
-          *   Make your project reach people who are interested in your
-          specialty.
-
+          Make your project reach people who are interested in your specialty.
 
           *   Design and build all your project requirements.
 
-
           *   full seo for your site.
-
 
           *   Cloud hosting
 
-
           *   Support all time with you
-
 
           Get a 40% discount when you pay with Coda
         highlight: false
