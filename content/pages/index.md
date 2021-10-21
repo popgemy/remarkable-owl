@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/stbl.png
     image_alt: App preview
-    title: Coda is here for everyone
+    title: 'Coda is here for everyone,'
     content: >
       Coda is a big community makes everyone Create, build and scale Defi
       projects, tools, websites, and communities based in security and trust.
