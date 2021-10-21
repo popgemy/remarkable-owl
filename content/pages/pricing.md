@@ -111,7 +111,7 @@ sections:
           #### &#xA;&#xA;
         actions:
           - label: Order Now
-            url: /co
+            url: /contact
             style: secondary
       - title: Smart Contracts
         subtitle: for smart contract
