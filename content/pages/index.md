@@ -78,7 +78,7 @@ sections:
         style: primary
 seo:
   title: Coda Mix Community
-  description: The preview of the Azimuth theme
+  description: 'Coda Mix Community '
   extra:
     - name: 'og:type'
       value: website
