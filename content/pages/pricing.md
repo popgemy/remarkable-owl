@@ -27,7 +27,7 @@ sections:
 
           *   SSL certificate
 
-          *   Get 40% discount when you pay with Coda
+          *   Get  a 40% discount when you pay with Coda
         actions:
           - label: Order Now
             url: /contact
