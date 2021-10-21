@@ -83,7 +83,7 @@ sections:
 
           *   Drag and drop anywhere you want.
 
-          *   20 Gb for start plan.
+          *   20 GB for start plan.
 
           *   Control Panel.
 
