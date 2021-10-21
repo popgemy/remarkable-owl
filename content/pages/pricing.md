@@ -136,17 +136,20 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
+        details: |
+          ## Features:
 
+          *   Social networks like Facebook,twitter.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   photo and video sharing social network service.
 
+          *   huge cloud hosting incloude 1m user and more.
 
-          - Lorem ipsum
+          *   Control Panel for can control your website
 
-          - dolor sit amet
+          *   SSL certificate
+
+          *   Incloudes Special domain
         highlight: false
         actions: []
   - section_id: faq
