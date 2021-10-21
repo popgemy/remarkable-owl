@@ -147,10 +147,9 @@ sections:
           get 20% discount and by coda you get 40% discount.
 
       - question: Are all these services included in the discount?
-        answer: >+
+        answer: >
           Services included in the discount are blogs-Commerce
-          Sites-photographers sites-Digtal Markting.
-
+          Sites-photographers sites-Digital Marketing.
       - question: How i can buy coda ?
         answer: |+
           You can buy coda from pancakeswap.finance.
