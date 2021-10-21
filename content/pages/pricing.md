@@ -133,7 +133,7 @@ sections:
           Get a 40% discount when you pay with Coda.
         highlight: false
         actions: []
-      - title: Social media
+      - title: Social Media
         subtitle: For social media and social communication apps.
         price: Contact us
         details: |
