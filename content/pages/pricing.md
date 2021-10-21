@@ -102,10 +102,9 @@ sections:
         subtitle: for smart contract
         price: Contact us
         details: |
-          Features:
+          ### Features:
 
-
-          *   deploy your new smart contract.
+          deploy your new smart contract.
 
           *   verify your smart contract on Blockchain network.
 
