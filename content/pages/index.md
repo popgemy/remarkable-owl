@@ -77,7 +77,7 @@ sections:
         url: 'https://github.com/mPhpMaster/UnderZ'
         style: primary
 seo:
-  title: Coda Mix c
+  title: Coda Mix Community
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
