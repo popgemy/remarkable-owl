@@ -57,7 +57,7 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
             style: primary
       - title: Digtal Markting
         subtitle: for digtal markting services
