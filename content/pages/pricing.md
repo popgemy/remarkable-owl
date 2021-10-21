@@ -133,7 +133,7 @@ sections:
           Get a 40% discount when you pay with Coda.
         highlight: false
         actions: []
-      - title: lorem-ipsum
+      - title: social media
         subtitle: For social media and social communication apps.
         price: Contact us
         details: |
