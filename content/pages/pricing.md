@@ -62,17 +62,28 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
+        details: >
+          Features:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          *   Make your project reach people who are interested in your
+          specialty.
 
 
-          - Lorem ipsum
+          *   Design and build all your project requirements.
 
-          - dolor sit amet
+
+          *   full seo for your site.
+
+
+          *   Cloud hosting
+
+
+          *   Support all time with you
+
+
+          Get a 40% discount when you pay with Coda
         highlight: false
         actions: []
       - title: Photographers
