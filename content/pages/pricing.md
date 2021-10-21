@@ -134,7 +134,7 @@ sections:
         highlight: false
         actions: []
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: For social medeia and social communication sites
         price: Contact us
         details: |
           ## Features:
