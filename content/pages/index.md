@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/stbl.png
     image_alt: App preview
     title: Coda is here for evryone.
     content: >+
