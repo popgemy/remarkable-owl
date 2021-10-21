@@ -19,7 +19,7 @@ sections:
 
           *   Take Backups anytime for free.
 
-          *   1 Gb ram memory can up to 64.
+          *   1 GB ram memory can up to 64.
 
           *   scale up on demand.
 
