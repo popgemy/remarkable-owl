@@ -134,7 +134,7 @@ sections:
         highlight: false
         actions: []
       - title: lorem-ipsum
-        subtitle: For social media and social communication sites
+        subtitle: For social media and social communication apps
         price: Contact us
         details: |
           ## Features:
