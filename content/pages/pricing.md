@@ -127,13 +127,13 @@ sections:
 
           *   photo and video sharing social network service.
 
-          *   huge cloud hosting incloude 1m user and more.
+          *   huge cloud hosting includes 1 million user and more.
 
           *   Control Panel for can control your website
 
           *   SSL certificate
 
-          *   Incloudes Special domain
+          *   Includes Special domain
         highlight: false
         actions: []
   - section_id: faq
