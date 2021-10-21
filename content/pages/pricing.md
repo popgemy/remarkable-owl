@@ -60,7 +60,7 @@ sections:
             url: /signup
             style: primary
       - title: Digtal Markting
-        subtitle: "For\_Digtal Markting"
+        subtitle: for digtal markting services
         price: lorem-ipsum
         details: >
           Features:
