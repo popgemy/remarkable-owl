@@ -88,7 +88,7 @@ sections:
             style: secondary
       - title: Smart Contracts
         subtitle: for smart contract
-        price: lorem-ipsum
+        price: Contact us
         details: |
           Features:
 
