@@ -41,7 +41,7 @@ sections:
           *   Unlimited Bandwith.
           *   Up to 10000 products.
           *   advanced control panel.
-          *   1 gb ram memory can up to 64.
+          *   1 GB ram memory can up to 64.
           *   include payments methods.
           *   20 GB disk space.
           *   Cloud hosting.
