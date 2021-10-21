@@ -27,6 +27,7 @@ export default class Landing extends React.Component {
                     }
                     return <Component key={index} section={section} data={data} posts={posts} />;
                 })}
+                
             </Layout>
         );
     }
