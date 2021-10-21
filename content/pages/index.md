@@ -25,7 +25,7 @@ sections:
     subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 second."
     features:
       - title: "Unlimited\_ services for\_Developers and users."
-        image: images/feature1.png
+        image: /images/60-606715_digital-services-png-transparent-png.png
         image_alt: App preview on a phone and tablet
         content: >+
           Coda offers many services to developers and users , if you user you
