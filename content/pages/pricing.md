@@ -135,7 +135,7 @@ sections:
         actions: []
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        price: lorem-ipsum
+        price: Contact us
         details: |
           ## Features:
 
