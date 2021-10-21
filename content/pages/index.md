@@ -41,7 +41,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Coda provides big services for low cost.
-        image: images/feature2.png
+        image: /images/best-digital-marketing-agency-1-2-768x432.png
         image_alt: App users welcoming a new member
         content: >+
           By big professional developers community, No need to spend a lot of
