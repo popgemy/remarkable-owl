@@ -35,7 +35,9 @@ sections:
       - title: Professional
         subtitle: "Stores Sites and\_All business activities"
         price: $9/m
-        details: |+
+        details: |
+          #### Features:
+
           *   Unlimited Bandwith.
           *   Up to 10000 products.
           *   advanced control panel.
@@ -45,14 +47,6 @@ sections:
           *   Cloud hosting.
           *   SSL certificate.
           *   Get 40% discount when you pay with Coda
-
-
-
-
-
-
-
-
         highlight: true
         actions:
           - label: Order Now
