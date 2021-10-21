@@ -59,7 +59,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: lorem-ipsum
+      - title: Digtal Markting
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >
