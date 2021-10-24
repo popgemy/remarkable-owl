@@ -21,7 +21,7 @@ sections:
     type: section_features
     background: gray
     title: Fast
-    subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 second."
+    subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 seconds."
     features:
       - title: "Unlimited\_ services for\_Developers and users."
         image: /images/60-606715_digital-services-png-transparent-png.png
