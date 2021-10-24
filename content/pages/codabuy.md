@@ -1,6 +1,6 @@
 ---
 title: How TO BUY CODA
-subtitle: 'CODA(COD) Contract Adress:'
+subtitle: 'CODA(COD) Contract Address:'
 image_alt: lorem-ipsum
 seo:
   title: ''
