@@ -19,4 +19,10 @@ The most trusted & secure crypto sites .
 
 you can get trust wallet from  :  www.trustwallet.com
 
-and get binance from : www.binance.com
+and get binance from: www.binance.com
+
+![](/images/bnb2.png)
+
+2\. Buy BNB:
+
+After download Apps , you can buy app from that sites 
