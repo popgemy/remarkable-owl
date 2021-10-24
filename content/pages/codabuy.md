@@ -1,6 +1,6 @@
 ---
 title: How TO BUY CODA
-subtitle: 'CODA(COD) Contract Address:'
+subtitle: 'CODA(COD) Contract Address::0x660a25243e8b37d78a1729fe6486ddca0a8dc2f2'
 image_alt: lorem-ipsum
 seo:
   title: ''
