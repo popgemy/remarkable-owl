@@ -1,5 +1,5 @@
 ---
-title: How
+title: How TO BUY CODA
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
