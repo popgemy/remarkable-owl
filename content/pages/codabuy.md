@@ -15,9 +15,8 @@ subtitle: CODA
 
 1.  download Trust wallet or Binance :
 
-The most trusted & secure crypto sites . 
+The most trusted & secure crypto sites .
 
-you can get trust wallet from :trustwallet.com
+you can get trust wallet from  :  www.trustwallet.com
 
-and get binance from:www.binance.com
-
+and get binance from : www.binance.com
