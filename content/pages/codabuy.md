@@ -14,3 +14,10 @@ subtitle: CODA
 ![](/images/trstw1.png)
 
 1.  download Trust wallet or Binance :
+
+The most trusted & secure crypto sites . 
+
+you can get trust wallet from :trustwallet.com
+
+and get binance from:www.binance.com
+
