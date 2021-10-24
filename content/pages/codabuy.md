@@ -1,6 +1,6 @@
 ---
 title: How TO BUY CODA
-subtitle: lorem-ipsum
+subtitle: CODA(COD)
 image_alt: lorem-ipsum
 seo:
   title: ''
