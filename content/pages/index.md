@@ -20,7 +20,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Fast
+    title: Flexible for everyone
     subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 seconds."
     features:
       - title: "Unlimited\_ services for\_Developers and users."
