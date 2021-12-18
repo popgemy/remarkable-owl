@@ -21,7 +21,9 @@ sections:
     type: section_features
     background: gray
     title: Flexible for everyone
-    subtitle: "Coda is fast protcol you can\_Send and receive\_ less than a 5 seconds."
+    subtitle: >-
+      You can provide your services at the right budget for you and for the
+      period that suits you.
     features:
       - title: "Unlimited\_ services for\_Developers and users."
         image: /images/60-606715_digital-services-png-transparent-png.png
