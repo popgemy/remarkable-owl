@@ -8,7 +8,7 @@ sections:
     subtitle: All you need need and more.
     pricing_plans:
       - title: Deploy your token
-        subtitle: For small businesses
+        subtitle: Mint your token in 5 minutes
         price: 0.06BNB
         details: |
           #### Features:
