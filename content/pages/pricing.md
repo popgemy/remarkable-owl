@@ -37,14 +37,18 @@ sections:
       - title: Deploy your token
         subtitle: mint your token in 5 minutes
         price: 0.09BNB
-        details: >
+        details: |
           #### Features:
 
+          *   deploy your new smart contract.
+          *   Choose your own token name.
+          *   Choose your symbol token name.   
 
-          *   *   deploy your new smart contract.*   Choose your own token
-          name.*   Choose your symbol token name.*   add your token to the
-          market.*   have any limits you want for market cap.*   Select the
-          market cap that suits you*   100000 CodaCoin Cash back
+          <!---->
+
+          *   have any limits you want for market cap.  
+          *   Select the market cap that suits you   
+          *   100000 CodaCoin Cash back
         highlight: true
         actions:
           - label: Order Now
