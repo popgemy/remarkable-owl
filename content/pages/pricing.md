@@ -7,7 +7,7 @@ sections:
     title: Services plan
     subtitle: All you need need and more.
     pricing_plans:
-      - title: Blogs /smal sites/personal
+      - title: Deploy your token
         subtitle: For small businesses
         price: 0.06BNB
         details: |
