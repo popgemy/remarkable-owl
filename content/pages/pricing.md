@@ -119,7 +119,7 @@ sections:
         actions: []
       - title: Social Media
         subtitle: For social media and social communication apps.
-        price: Contact us
+        price: 1BNB
         details: |
           ## Features:
 
