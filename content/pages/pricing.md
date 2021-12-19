@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Blogs /smal sites/personal
         subtitle: For small businesses
-        price: From $3/m
+        price: 0.06BNB
         details: |
           #### Features:
 
