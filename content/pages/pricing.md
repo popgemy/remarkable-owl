@@ -40,7 +40,7 @@ sections:
         details: |
           #### Features:
 
-          *   Unlimited Bandwith.
+          *   Deploy your tokens in minutes,
           *   Up to 10000 products.
           *   advanced control panel.
           *   1 GB ram memory can up to 64.
