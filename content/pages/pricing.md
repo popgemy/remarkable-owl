@@ -36,7 +36,7 @@ sections:
             style: secondary
       - title: Deploy your token
         subtitle: mint your token in 5 minutes
-        price: 0.15 BNB=75$
+        price: 0.09BNB
         details: |
           #### Features:
 
