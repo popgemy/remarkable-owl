@@ -128,19 +128,19 @@ sections:
         details: |
           #### Features:
 
-          #### Social networks like Facebook,twitter.
+          *   Social networks like Facebook,twitter.
 
-          #### photo and video sharing social network service.
+          *   photo and video sharing social network service.
 
-          #### huge cloud hosting includes 1 million user and more.
+          *   huge cloud hosting includes 1 million user and more.
 
-          #### Control Panel for can control your website
+          *   Control Panel for can control your website
 
-          #### SSL certificate
+          *   SSL certificate
 
-          #### Includes Special domain
+          *   Includes Special domain
 
-          #### 100000 CodaCoin cash back
+          *   100000 CodaCoin cash back
         highlight: false
         actions: []
   - section_id: faq
