@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Deploy your token
         subtitle: Mint your token in 5 minutes
-        price: 0.06BNB
+        price: 0.09BNB
         details: |
           #### Features:
 
