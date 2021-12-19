@@ -73,7 +73,7 @@ sections:
           Get a 40% discount when you pay with Coda
         highlight: false
         actions: []
-      - title: Photographers
+      - title: verfy
         subtitle: For Photographer sites.
         price: 0.2 BNB
         details: |
