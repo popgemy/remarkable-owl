@@ -34,7 +34,7 @@ sections:
           - label: Order Now
             url: /contact
             style: secondary
-      - title: Professional
+      - title: Deploy your token
         subtitle: "Stores Sites and\_All business activities"
         price: 0.15 BNB=75$
         details: |
