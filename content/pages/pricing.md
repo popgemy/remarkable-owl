@@ -100,7 +100,7 @@ sections:
             style: secondary
       - title: Smart Contracts
         subtitle: for smart contract
-        price: Contact us
+        price: 0.1BNB
         details: |
           ### Features:
 
