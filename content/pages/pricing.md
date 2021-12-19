@@ -35,7 +35,7 @@ sections:
             url: /contact
             style: secondary
       - title: Deploy your token
-        subtitle: "Stores Sites and\_All business activities"
+        subtitle: mint your token in 5 minutes
         price: 0.15 BNB=75$
         details: |
           #### Features:
