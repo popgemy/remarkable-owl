@@ -13,23 +13,19 @@ sections:
         details: |
           #### Features:
 
-          *   Unlimited bandwidth..
+          *   deploy your new smart contract.
+
+          *   Choose your own token name.
+
+          *   Choose your symbol token name.
 
           <!---->
 
-          *   Take Backups anytime for free.
+          *   have any limits you want for market cap.
 
-          *   1 GB ram memory can up to 64.
+          *   Select the market cap that suits you
 
-          *   scale up on demand.
-
-          *   Cloud hosting
-
-          *   SSL certificate
-
-          *   2 years free hosting
-
-          *   2000 CodaCoin cash back
+          *   100000 CodaCoin Cash back
         actions:
           - label: Order Now
             url: /contact
