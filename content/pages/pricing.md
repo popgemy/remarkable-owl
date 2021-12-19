@@ -37,19 +37,14 @@ sections:
       - title: Deploy your token
         subtitle: mint your token in 5 minutes
         price: 0.09BNB
-        details: |
+        details: >
           #### Features:
 
-          *   Deploy your tokens in minutes,
-          *   Up to 10000 products.
-          *   advanced control panel.
-          *   1 GB ram memory can up to 64.
-          *   include payments methods.
-          *   20 GB disk space.
-          *   Cloud hosting.
-          *   SSL certificate.
-          *   2 years free hosting
-          *   5000 CodaCoin cash back
+
+          *   *   deploy your new smart contract.*   Choose your own token
+          name.*   Choose your symbol token name.*   add your token to the
+          market.*   have any limits you want for market cap.*   Select the
+          market cap that suits you*   100000 CodaCoin Cash back
         highlight: true
         actions:
           - label: Order Now
