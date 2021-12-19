@@ -27,7 +27,9 @@ sections:
 
           *   SSL certificate
 
-          *   Get  a 40% discount when you pay with Coda
+          *   2 years free hosting
+
+          *   2000 CodaCoin cash back
         actions:
           - label: Order Now
             url: /contact
