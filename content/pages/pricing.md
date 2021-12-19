@@ -34,7 +34,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: "Stores Sites and\_All business activities"
-        price: $6/m
+        price: 0.15 BNB=75$
         details: |
           #### Features:
 
