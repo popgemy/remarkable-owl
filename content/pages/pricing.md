@@ -117,9 +117,9 @@ sections:
 
           *   have any limits you want for market cap.
 
-          *   website for your smart contract and your project.
+          *   website for your smart contract and your project.=0.15 bnb
 
-          Get a 40% discount when you pay with Coda.
+          *   100000 CodaCoin Cash back
         highlight: false
         actions: []
       - title: Social Media
