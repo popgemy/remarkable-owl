@@ -48,7 +48,8 @@ sections:
           *   20 GB disk space.
           *   Cloud hosting.
           *   SSL certificate.
-          *   Get a 40% discount when you pay with Coda
+          *   2 years free hosting
+          *   5000 CodaCoin cash back
         highlight: true
         actions:
           - label: Order Now
