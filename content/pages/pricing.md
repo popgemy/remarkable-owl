@@ -94,7 +94,9 @@ sections:
 
           *   SSL certificate.
 
-          Get 40% discount when you pay with Coda
+          *   2 years free hosting
+
+          *   7000 CodaCoin cash back
 
           #### &#xA;&#xA;
         actions:
