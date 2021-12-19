@@ -107,19 +107,19 @@ sections:
         subtitle: for smart contract
         price: 0.1BNB
         details: |
-          #### Features:
+          *   Features:
 
-          #### deploy your new smart contract.
+          *   deploy your new smart contract.
 
-          #### verify your smart contract on Blockchain network.
+          *   verify your smart contract on Blockchain network.
 
-          #### add your token to the market.
+          *   add your token to the market.
 
-          #### have any limits you want for market cap.
+          *   have any limits you want for market cap.
 
-          #### website for your smart contract and your project.=0.15 bnb
+          *   website for your smart contract and your project.=0.15 bnb
 
-          #### 100000 CodaCoin Cash back
+          *   100000 CodaCoin Cash back
         highlight: false
         actions: []
       - title: Social Media
