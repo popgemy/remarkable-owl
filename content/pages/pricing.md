@@ -139,6 +139,8 @@ sections:
           *   SSL certificate
 
           *   Includes Special domain
+
+          *   100000 CodaCoin cash back
         highlight: false
         actions: []
   - section_id: faq
