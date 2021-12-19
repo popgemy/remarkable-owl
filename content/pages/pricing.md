@@ -73,7 +73,7 @@ sections:
         actions: []
       - title: Photographers
         subtitle: For Photographer sites.
-        price: $10/m
+        price: 0.2 BNB
         details: |
           #### Features:
 
