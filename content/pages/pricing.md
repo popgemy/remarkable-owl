@@ -32,7 +32,7 @@ sections:
             style: secondary
       - title: website company
         subtitle: website for your company or project
-        price: 0.09BNB
+        price: 0.2BNB
         details: |
           #### Features:
 
