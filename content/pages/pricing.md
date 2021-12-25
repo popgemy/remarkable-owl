@@ -50,7 +50,7 @@ sections:
           - label: Order Now
             url: /contact
             style: primary
-      - title: store website
+      - title: e-commerce websites
         subtitle: for e-commerce sites
         price: Contact us
         details: |
