@@ -36,14 +36,14 @@ sections:
         details: |
           #### Features:
 
-          *   deploy your new smart contract.
-          *   Choose your own token name.
-          *   Choose your symbol token name.   
+          *   own website forever
+          *   free hosting for 2 years
+          *   you can transfer website anytime you want 
 
           <!---->
 
-          *   have any limits you want for market cap.  
-          *   Select the market cap that suits you   
+          *   super fast website
+          *   Technical support service is with you 24/7.
           *   100000 CodaCoin Cash back
         highlight: true
         actions:
