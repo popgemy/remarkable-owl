@@ -51,7 +51,7 @@ sections:
             url: /contact
             style: primary
       - title: store website
-        subtitle: for digtal markting services
+        subtitle: for e-commerce sites
         price: Contact us
         details: |
           #### Features:
