@@ -52,7 +52,7 @@ sections:
             style: primary
       - title: e-commerce websites
         subtitle: for e-commerce sites
-        price: Contact us
+        price: '0.5'
         details: |
           #### Features:
 
