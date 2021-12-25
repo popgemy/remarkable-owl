@@ -50,7 +50,7 @@ sections:
           - label: Order Now
             url: /contact
             style: primary
-      - title: Digtal Markting
+      - title: store website
         subtitle: for digtal markting services
         price: Contact us
         details: |
