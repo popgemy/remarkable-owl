@@ -31,7 +31,7 @@ sections:
             url: /contact
             style: secondary
       - title: website company
-        subtitle: mint your token in 5 minutes
+        subtitle: website for your company or project
         price: 0.09BNB
         details: |
           #### Features:
