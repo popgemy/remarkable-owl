@@ -98,6 +98,14 @@ sections:
           - label: Order Now
             url: /contact
             style: secondary
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
       - title: Smart Contracts
         subtitle: for smart contract
         price: 0.1BNB
