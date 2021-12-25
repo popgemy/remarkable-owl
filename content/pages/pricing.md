@@ -30,7 +30,7 @@ sections:
           - label: Order Now
             url: /contact
             style: secondary
-      - title: Deploy your token
+      - title: website company
         subtitle: mint your token in 5 minutes
         price: 0.09BNB
         details: |
