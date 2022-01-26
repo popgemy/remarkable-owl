@@ -4,7 +4,7 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Services plan
+    title: Services
     subtitle: All you need need and more.
     pricing_plans:
       - title: Coda Invest
