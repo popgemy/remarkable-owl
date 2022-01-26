@@ -13,7 +13,7 @@ sections:
         details: |
           #### Features:
 
-          *   dOwn your own investment contract .
+          *   Own your own investment contract .
 
           *   All contracts will be as NFT
 
