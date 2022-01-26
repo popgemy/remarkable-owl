@@ -52,7 +52,7 @@ sections:
         price: SOON
       - title: "Coda\_Community"
         subtitle: A comprehensive platform for all applications
-        price: soon
+        price: SOON
         details: |
           #### Features:
 
