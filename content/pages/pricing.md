@@ -30,7 +30,7 @@ sections:
           - label: Order Now
             url: /contact
             style: secondary
-      - title: website company
+      - title: Coda
         subtitle: website for your company or project
         price: 0.2BNB
         details: |
