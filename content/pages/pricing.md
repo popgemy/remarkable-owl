@@ -87,25 +87,6 @@ sections:
             icon_position: left
             new_window: false
             no_follow: false
-      - title: Smart Contracts
-        subtitle: for smart contract
-        price: 0.1BNB
-        details: |
-          *   Features:
-
-          *   deploy your new smart contract.
-
-          *   verify your smart contract on Blockchain network.
-
-          *   add your token to the market.
-
-          *   have any limits you want for market cap.
-
-          *   website for your smart contract and your project.=0.15 bnb
-
-          *   100000 CodaCoin Cash back
-        highlight: false
-        actions: []
   - section_id: faq
     type: section_faq
     background: gray
