@@ -106,27 +106,6 @@ sections:
           *   100000 CodaCoin Cash back
         highlight: false
         actions: []
-      - title: Social Media
-        subtitle: For social media and social communication apps.
-        price: 1BNB
-        details: |
-          #### Features:
-
-          *   Social networks like Facebook,twitter.
-
-          *   photo and video sharing social network service.
-
-          *   huge cloud hosting includes 1 million user and more.
-
-          *   Control Panel for can control your website
-
-          *   SSL certificate
-
-          *   Includes Special domain
-
-          *   100000 CodaCoin cash back
-        highlight: false
-        actions: []
   - section_id: faq
     type: section_faq
     background: gray
