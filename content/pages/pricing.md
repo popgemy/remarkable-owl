@@ -50,7 +50,7 @@ sections:
             url: /contact
             style: primary
       - title: "Coda\_Community"
-        subtitle: For Photographer sites.
+        subtitle: A comprehensive platform for all applications
         price: 0.2 BNB
         details: |
           #### Features:
