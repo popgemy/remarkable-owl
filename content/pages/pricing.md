@@ -49,7 +49,7 @@ sections:
           - label: Order Now
             url: /contact
             style: primary
-        price: س
+        price: SOON
       - title: "Coda\_Community"
         subtitle: A comprehensive platform for all applications
         price: soon
