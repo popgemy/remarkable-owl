@@ -51,7 +51,7 @@ sections:
             style: primary
       - title: "Coda\_Community"
         subtitle: A comprehensive platform for all applications
-        price: 0.2 BNB
+        price: soon
         details: |
           #### Features:
 
