@@ -8,7 +8,7 @@ sections:
     subtitle: All you need need and more.
     pricing_plans:
       - title: Coda Invest
-        subtitle: Mint your token in 5 minutes
+        subtitle: Real NFT Value
         price: 0.09BNB
         details: |
           #### Features:
