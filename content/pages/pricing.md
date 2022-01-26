@@ -13,7 +13,7 @@ sections:
         details: |
           #### Features:
 
-          *   deploy your new smart contract.
+          *   dOwn your own investment contract as NFT
 
           *   Choose your own token name.
 
