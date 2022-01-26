@@ -32,7 +32,6 @@ sections:
             style: secondary
       - title: UnderZ
         subtitle: Application platform
-        price: 0.2BNB
         details: |
           #### Features:
 
