@@ -31,7 +31,7 @@ sections:
             url: /contact
             style: secondary
       - title: UnderZ
-        subtitle: website for your company or project
+        subtitle: Application platform
         price: 0.2BNB
         details: |
           #### Features:
