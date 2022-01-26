@@ -11,11 +11,11 @@ sections:
         subtitle: Real NFT Value
         price: COD/BNB
         details: |
-          #### Features:
+          #### **Features**:
 
-          *   Own your own investment contract .
+          *   **Own your own investment contract .**
 
-          *   All contracts will be as NFT.
+          *   **All contracts will be as NFT.**
 
           *   Choose your symbol token name.
 
