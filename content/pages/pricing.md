@@ -104,6 +104,12 @@ sections:
         answer: |+
           You can buy coda from pancakeswap.finance.
 
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 seo:
   title: Pricing
   description: This is the pricing page
