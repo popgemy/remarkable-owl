@@ -49,7 +49,7 @@ sections:
           - label: Order Now
             url: /contact
             style: primary
-      - title: verfy
+      - title: COda
         subtitle: For Photographer sites.
         price: 0.2 BNB
         details: |
