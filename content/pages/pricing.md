@@ -50,25 +50,6 @@ sections:
           - label: Order Now
             url: /contact
             style: primary
-      - title: e-commerce websites
-        subtitle: for e-commerce sites
-        price: '0.5'
-        details: |
-          #### Features:
-
-          Make your project reach people who are interested in your specialty.
-
-          *   Design and build all your project requirements.
-
-          *   full seo for your site.
-
-          *   Cloud hosting
-
-          *   Support all time with you
-
-          Get a 40% discount when you pay with Coda
-        highlight: false
-        actions: []
       - title: verfy
         subtitle: For Photographer sites.
         price: 0.2 BNB
