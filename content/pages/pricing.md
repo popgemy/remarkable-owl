@@ -13,9 +13,9 @@ sections:
         details: |
           #### Features:
 
-          *   dOwn your own investment contract as NFT
+          *   dOwn your own investment contract .
 
-          *   Choose your own token name.
+          *   All contracts will be as NFT
 
           *   Choose your symbol token name.
 
