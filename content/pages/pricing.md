@@ -49,7 +49,7 @@ sections:
           - label: Order Now
             url: /contact
             style: primary
-      - title: COda
+      - title: "Coda\_Community"
         subtitle: For Photographer sites.
         price: 0.2 BNB
         details: |
