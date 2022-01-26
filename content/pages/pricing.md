@@ -7,7 +7,7 @@ sections:
     title: Services plan
     subtitle: All you need need and more.
     pricing_plans:
-      - title: Deploy your token
+      - title: Coda invest
         subtitle: Mint your token in 5 minutes
         price: 0.09BNB
         details: |
