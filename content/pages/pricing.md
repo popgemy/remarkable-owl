@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Coda Invest
         subtitle: Real NFT Value
-        price: 0.09BNB
+        price: COD/BNB
         details: |
           #### Features:
 
