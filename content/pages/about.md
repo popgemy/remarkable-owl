@@ -31,6 +31,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+# Introduction
+
 Coda is New community of highly experienced developers, help everyone to do great things and lead them to success, Coda is . Best decentralize services in the world we help developers and small and medium sites to the growth of their business by low cost  And we target to make all services and web deal by blockchain cryptocurrency and token then make it free In the near future.
 
 # what we do :
@@ -46,3 +48,15 @@ Coda is New community of highly experienced developers, help everyone to do grea
 # Our Goals:
 
 #### We look forward to making services and creating applications available to everyone, no exceptions we want, We look forward to making all the distinguished people reach their goals with easy way no cost no time coda can do this with a big professional developers community.
+
+## Investment Challenges:
+
+#### The most prominent investment challenges facing small investors is the lack of equal opportunities among them. Where is the real investment.We care about this aspect and support small investors in this so that they have the opportunity in balanced investment for a better investment future.
+
+### How is the investment guaranteed with us?
+
+##### We are obligated to make the investment safe and secure by providing the real value for each issue And the burning should be parallel in the same direction to ensure the best investment in the market
+
+## How is the real value of a token?
+
+##### We do not issue tokens as soon as they are issued, like other projects.We only issue it when it has real purchasing value at the same rate as invested 
