@@ -60,3 +60,6 @@ Coda is New community of highly experienced developers, help everyone to do grea
 ## How is the real value of a token?
 
 #### We do not issue tokens as soon as they are issued, like other projects.We only issue it when it has real purchasing value at the same rate as invested.Meaning that whenever there is a purchase of investment wallets, there is a new issuance of currencies and a balanced burn rate.
+
+## What are investment wallets?
+
