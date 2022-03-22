@@ -2,3 +2,8 @@
 publish = "out"
 command = "npm run build"
 environment = { NODE_VERSION = "12" }
+[[redirects]]
+  from = "ape.codadev.org"
+  to = "apee.nftify.network"
+  status = 301
+  force = true
