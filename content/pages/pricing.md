@@ -4,76 +4,55 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    title: Services plan
+    title: Services
     subtitle: All you need need and more.
     pricing_plans:
-      - title: Blogs /smal sites/personal
-        subtitle: For small businesses
-        price: From $3/m
+      - title: Lucky Ape
+        subtitle: Real NFT Value
+        price: smart chain
         details: |
-          #### Features:
+          #### **Features**:
 
-          *   Unlimited bandwidth..
+          *   **Total Supply:10000.**
+
+          *   **Network:smart chain.**
+
+          *   **total prizes:5000,000,000 COD.**
 
           <!---->
 
-          *   Take Backups anytime for free.
+          *   have any limits you want for market cap.
 
-          *   1 GB ram memory can up to 64.
+          *   Select the market cap that suits you
 
-          *   scale up on demand.
-
-          *   Cloud hosting
-
-          *   SSL certificate
-
-          *   Get  a 40% discount when you pay with Coda
+          *   100000 CodaCoin Cash back
         actions:
           - label: Order Now
             url: /contact
             style: secondary
-      - title: Professional
-        subtitle: "Stores Sites and\_All business activities"
-        price: $6/m
+      - title: Lucky Lion
+        subtitle: Application platform
         details: |
           #### Features:
 
-          *   Unlimited Bandwith.
-          *   Up to 10000 products.
-          *   advanced control panel.
-          *   1 GB ram memory can up to 64.
-          *   include payments methods.
-          *   20 GB disk space.
-          *   Cloud hosting.
-          *   SSL certificate.
-          *   Get a 40% discount when you pay with Coda
+          *   own website forever
+          *   free hosting for 2 years
+          *   you can transfer website anytime you want 
+
+          <!---->
+
+          *   super fast website
+          *   Technical support service is with you 24/7.
+          *   100000 CodaCoin Cash back
         highlight: true
         actions:
           - label: Order Now
             url: /contact
             style: primary
-      - title: Digtal Markting
-        subtitle: for digtal markting services
-        price: Contact us
-        details: |
-          #### Features:
-
-          Make your project reach people who are interested in your specialty.
-
-          *   Design and build all your project requirements.
-
-          *   full seo for your site.
-
-          *   Cloud hosting
-
-          *   Support all time with you
-
-          Get a 40% discount when you pay with Coda
-        highlight: false
-        actions: []
-      - title: Photographers
-        subtitle: For Photographer sites.
-        price: $10/m
+        price: SOON
+      - title: "Coda\_Community"
+        subtitle: A comprehensive platform for all applications
+        price: SOON
         details: |
           #### Features:
 
@@ -91,51 +70,23 @@ sections:
 
           *   SSL certificate.
 
-          Get 40% discount when you pay with Coda
+          *   2 years free hosting
+
+          *   7000 CodaCoin cash back
 
           #### &#xA;&#xA;
         actions:
           - label: Order Now
             url: /contact
             style: secondary
-      - title: Smart Contracts
-        subtitle: for smart contract
-        price: Contact us
-        details: |
-          ### Features:
-
-          deploy your new smart contract.
-
-          *   verify your smart contract on Blockchain network.
-
-          *   add your token to the market.
-
-          *   have any limits you want for market cap.
-
-          *   website for your smart contract and your project.
-
-          Get a 40% discount when you pay with Coda.
-        highlight: false
-        actions: []
-      - title: Social Media
-        subtitle: For social media and social communication apps.
-        price: Contact us
-        details: |
-          ## Features:
-
-          *   Social networks like Facebook,twitter.
-
-          *   photo and video sharing social network service.
-
-          *   huge cloud hosting includes 1 million user and more.
-
-          *   Control Panel for can control your website
-
-          *   SSL certificate
-
-          *   Includes Special domain
-        highlight: false
-        actions: []
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
   - section_id: faq
     type: section_faq
     background: gray
@@ -154,6 +105,12 @@ sections:
         answer: |+
           You can buy coda from pancakeswap.finance.
 
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 seo:
   title: Pricing
   description: This is the pricing page

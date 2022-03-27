@@ -19,13 +19,13 @@
                 "style": "link"
             },
             {
-                "label": "Services",
-                "url": "/pricing",
+                "label": "NFT Stores",
+                "url": "/Stores",
                 "style": "link"
             },
             {
-                "label": "about",
-                "url": "/about",
+                "label": "white paper",
+                "url": "/whitepapers",
                 "style": "link"
             },
             {
