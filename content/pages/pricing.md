@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Lucky Ape
         subtitle: Real NFT Value
-        price: COD/BNB
+        price: smart chain
         details: |
           #### **Features**:
 
