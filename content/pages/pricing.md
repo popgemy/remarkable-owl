@@ -13,11 +13,11 @@ sections:
         details: |
           #### **Features**:
 
-          *   **Own your own investment contract .**
+          *   **Total Supply:10000.**
 
-          *   **All contracts will be as NFT.**
+          *   **Network:smart chain.**
 
-          *   Choose your symbol token name.
+          *   **total prizes:5000,000,000 COD.**
 
           <!---->
 
