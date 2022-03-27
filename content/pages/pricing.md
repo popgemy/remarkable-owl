@@ -30,7 +30,7 @@ sections:
           - label: Order Now
             url: /contact
             style: secondary
-      - title: UnderZ
+      - title: Lucky Lion
         subtitle: Application platform
         details: |
           #### Features:
