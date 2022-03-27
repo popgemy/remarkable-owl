@@ -7,7 +7,7 @@ sections:
     title: Services
     subtitle: All you need need and more.
     pricing_plans:
-      - title: Coda Invest
+      - title: Lucky Ape
         subtitle: Real NFT Value
         price: COD/BNB
         details: |
