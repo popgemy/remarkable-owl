@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: whitepapers
 subtitle: CODA FOR EVRYONE.
 image: images/about.jpg
 image_alt: Team members in a conference room
